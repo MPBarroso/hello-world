@@ -1,2 +1,2 @@
 # hello-world
-first project
+first project that I used git. It's easier than I thought.
